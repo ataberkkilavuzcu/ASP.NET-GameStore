@@ -1,0 +1,14 @@
+
+GET http://localhost:5199/games
+
+GET http://localhost:5199/games/6
+
+POST http://localhost:5199/games
+Content-Type: application/json
+
+{
+    "name": "Elden Ring",
+    "genre": "Action RPG",
+    "price": 59.99,
+    "releaseDate": "2022-02-25"
+}

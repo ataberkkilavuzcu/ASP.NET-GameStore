@@ -23,3 +23,4 @@
 /Users/ataberk/Desktop/projects/GameStore/GameStore.api/obj/Debug/net8.0/GameStore.api.pdb
 /Users/ataberk/Desktop/projects/GameStore/GameStore.api/obj/Debug/net8.0/GameStore.api.genruntimeconfig.cache
 /Users/ataberk/Desktop/projects/GameStore/GameStore.api/obj/Debug/net8.0/ref/GameStore.api.dll
+/Users/ataberk/Desktop/projects/GameStore/GameStore.api/obj/Debug/net8.0/GameStore.api.sourcelink.json
