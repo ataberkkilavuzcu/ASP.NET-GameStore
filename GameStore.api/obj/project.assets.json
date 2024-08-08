@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ataberk/Desktop/projects/GameStore/GameStore.api/GameStore.api.csproj",
+      "projectUniqueName": "/Users/ataberk/Desktop/projects/ASP.NET-GameStore/GameStore.api/GameStore.api.csproj",
       "projectName": "GameStore.api",
-      "projectPath": "/Users/ataberk/Desktop/projects/GameStore/GameStore.api/GameStore.api.csproj",
+      "projectPath": "/Users/ataberk/Desktop/projects/ASP.NET-GameStore/GameStore.api/GameStore.api.csproj",
       "packagesPath": "/Users/ataberk/.nuget/packages/",
-      "outputPath": "/Users/ataberk/Desktop/projects/GameStore/GameStore.api/obj/",
+      "outputPath": "/Users/ataberk/Desktop/projects/ASP.NET-GameStore/GameStore.api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ataberk/.nuget/NuGet/NuGet.Config"
