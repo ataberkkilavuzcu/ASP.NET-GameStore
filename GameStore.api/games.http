@@ -12,3 +12,13 @@ Content-Type: application/json
     "price": 59.99,
     "releaseDate": "2022-02-25"
 }
+
+POST http://localhost:5199/games
+Content-Type: application/json
+
+{
+    "name": "Horizon Forbidden West",
+    "genre": "Action RPG",
+    "price": 59.99,
+    "releaseDate": "2022-02-18"
+}
