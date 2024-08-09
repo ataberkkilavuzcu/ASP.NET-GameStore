@@ -22,3 +22,15 @@ Content-Type: application/json
     "price": 59.99,
     "releaseDate": "2022-02-18"
 }
+
+PUT http://localhost:5199/games/1
+Content-Type: application/json
+
+{
+    "name": "Super Mario Odyssey",
+    "genre": "Platformer",
+    "price": 59.99,
+    "releaseDate": "2017-10-27"
+}
+
+DELETE http://localhost:5199/games/7
