@@ -23,7 +23,7 @@ Content-Type: application/json
     "releaseDate": "2022-02-18"
 }
 
-PUT http://localhost:5199/games/1
+PUT http://localhost:5199/games/6
 Content-Type: application/json
 
 {
