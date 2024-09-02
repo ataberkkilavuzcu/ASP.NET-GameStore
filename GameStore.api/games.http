@@ -7,27 +7,27 @@ POST http://localhost:5199/games
 Content-Type: application/json
 
 {
-    "name": "Elden Ring",
-    "genre": "Action RPG",
+    "name": "The Witcher 3: Wild Hunt",
+    "genreId": 3,
     "price": 59.99,
-    "releaseDate": "2022-02-25"
+    "releaseDate": "2015-05-19"
 }
 
 POST http://localhost:5199/games
 Content-Type: application/json
 
 {
-    "name": "Horizon Forbidden West",
-    "genre": "Action RPG",
+    "name": "Final Fantasy VII",
+    "genreId": 3,
     "price": 59.99,
-    "releaseDate": "2022-02-18"
+    "releaseDate": "1997-01-31"
 }
 
-PUT http://localhost:5199/games/6
+PUT http://localhost:5199/games/1
 Content-Type: application/json
 
 {
-    "name": "Super Mario Odyssey",
+    
     "genre": "Platformer",
     "price": 59.99,
     "releaseDate": "2017-10-27"
